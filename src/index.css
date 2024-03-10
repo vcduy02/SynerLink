@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.ant-tabs-content-holder {
+  height: 90vh;
+}
+.ant-tabs-content{
+  height: 100%
+}
+.ant-tabs-tabpane{
+  height: 100%
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
